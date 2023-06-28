@@ -1,0 +1,110 @@
+.zipCodeField {
+  position: relative;
+  width: 271px;
+  height: 49px;
+}
+.rectangle {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(30, 30, 30);
+  background-color: rgb(254, 254, 241);
+}
+.text33611 {
+  position: absolute;
+  left: calc(9.22509225092251%);
+  right: calc(46.86346863468634%);
+  width: calc(43.91143911439114%);
+  top: calc(30.612244897959183%);
+  bottom: calc(42.857142857142854%);
+  height: calc(26.53061224489796%);
+  color: rgb(30, 30, 30);
+  font-size: 14px;
+  font-family: Poppins;
+  font-weight: 300;
+}
+.zipCodeFieldComponent {
+  position: relative;
+  width: 271px;
+  height: 49px;
+}
+.rectangleDiv {
+  box-shadow: 0px 4px 4px rgb(176, 71, 89, 0.2);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(30, 30, 30);
+  background-color: rgb(254, 254, 241);
+}
+.zipCode {
+  opacity: 0.4;
+  position: absolute;
+  left: calc(9.96309963099631%);
+  right: calc(46.125461254612546%);
+  width: calc(43.91143911439114%);
+  top: calc(32.6530612244898%);
+  bottom: calc(34.69387755102041%);
+  height: calc(32.653061224489804%);
+  color: rgb(30, 30, 30);
+  font-size: 14px;
+  font-family: Poppins;
+  font-weight: 400;
+}
+.or {
+  opacity: 0.4;
+  position: absolute;
+  left: calc(7.380073800738007%);
+  right: calc(48.708487084870846%);
+  width: calc(43.91143911439115%);
+  top: calc(26.53061224489796%);
+  bottom: calc(22.448979591836736%);
+  height: calc(51.020408163265316%);
+  color: rgb(30, 30, 30);
+  font-size: 24px;
+  font-family: Heiti TC;
+  font-weight: 300;
+}
+.zipCodeFieldComponent1 {
+  position: relative;
+  width: 271px;
+  height: 49px;
+}
+.rectangleDiv1 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(30, 30, 30);
+  background-color: rgb(254, 254, 241);
+}
+.zipCodeText {
+  opacity: 0.4;
+  position: absolute;
+  left: calc(9.96309963099631%);
+  right: calc(46.125461254612546%);
+  width: calc(43.91143911439114%);
+  top: calc(32.6530612244898%);
+  bottom: calc(34.69387755102041%);
+  height: calc(32.653061224489804%);
+  color: rgb(30, 30, 30);
+  font-size: 14px;
+  font-family: Poppins;
+  font-weight: 400;
+}
